@@ -1,5 +1,4 @@
 ## StyleFinder: A New Way to Shop
-Name, Semester, link to personal website.
 Laiba Khan
 SP25
 www.linkedin.com/in/laibakhan1 
