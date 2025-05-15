@@ -35,6 +35,7 @@ Style Finder demonstrates how a focused personalization workflow, combined with 
 <img width="322" alt="Screen Shot 2025-05-12 at 2 08 57 PM" src="https://github.com/user-attachments/assets/2f61ca99-bf14-4401-a390-8c7b8da40f35" />
 <img width="322" alt="Screen Shot 2025-05-12 at 2 09 05 PM" src="https://github.com/user-attachments/assets/d748681a-80cf-43be-9840-f6839852897f" />
 <img width="324" alt="Screen Shot 2025-05-12 at 2 09 12 PM" src="https://github.com/user-attachments/assets/74151e57-f82e-42f8-844d-da5b7c05de9f" />
+<img width="614" alt="Screen Shot 2025-03-25 at 11 32 53 PM" src="https://github.com/user-attachments/assets/0e776c02-0142-4115-8e5e-0fad41a41607" />
 
 
 ## References
