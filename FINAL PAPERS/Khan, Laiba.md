@@ -1,4 +1,4 @@
-##StyleFinder: A New Way to Shop
+## StyleFinder: A New Way to Shop
 Name, Semester, link to personal website.
 Laiba Khan
 SP25
@@ -7,7 +7,7 @@ www.linkedin.com/in/laibakhan1
 
 ### Abstract
 
-\[Comment\_1]: <> Style Finder is an open‑source web application that helps young adults discover and refine their personal style without wading through endless product lists. Users complete a brief quiz about color preferences, body shape, and lifestyle, and the platform returns curated outfit suggestions tailored to each profile. A “Trending Now” feed, driven by community votes and real‑time data, keeps recommendations fresh, while quick links to sizing guides and styling tips simplify decision making. Moderated discussion boards allow users to ask questions and share advice, fostering a supportive “style helper” community. By partnering with sustainable brands and ethical influencers, Style Finder not only delivers personalized fashion recommendations but also promotes mindful consumption and waste reduction. \[Comment\_2]: <> (Khan, 2025)
+<Style Finder is an open‑source web application that helps young adults discover and refine their personal style without wading through endless product lists. Users complete a brief quiz about color preferences, body shape, and lifestyle, and the platform returns curated outfit suggestions tailored to each profile. A “Trending Now” feed, driven by community votes and real‑time data, keeps recommendations fresh, while quick links to sizing guides and styling tips simplify decision making. Moderated discussion boards allow users to ask questions and share advice, fostering a supportive “style helper” community. By partnering with sustainable brands and ethical influencers, Style Finder not only delivers personalized fashion recommendations but also promotes mindful consumption and waste reduction. \ ></Style>(Khan, 2025)
 
 #### Introduction
 
