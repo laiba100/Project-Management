@@ -6,7 +6,7 @@ www.linkedin.com/in/laibakhan1
 
 ### Abstract
 
-Style Finder is an open‑source web platform that simplifies personal style discovery for Gen Z and millennial users. By guiding individuals through a easy to navigate quiz on color preferences, body shape, and lifestyle factors, the system produces tailored outfit recommendations that reduce decision fatigue and minimize fashion waste. A dynamic “Trending Now” feed—driven by real‑time trend data and community upvotes and discussions ensures recommendations remain both fresh and relevant. Integrated sizing guides, styling articles, and moderated discussion boards create a supportive environment where users share advice and vote on best solutions. Partnerships with sustainable brands and ethical influencers reinforce the platform’s commitment to conscious consumerism and community engagement.(McNeill & Venter, 2019; Smith & Kim, 2023)
+Style Finder is an open‑source web platform that simplifies personal style discovery for Gen Z and millennial users. By guiding individuals through a easy to navigate quiz on color preferences, body shape, and lifestyle factors, the system produces tailored outfit recommendations that reduce decision fatigue and minimize fashion waste. A dynamic “Trending Now” feed driven by real‑time trend data and community upvotes and discussions ensures recommendations remain both fresh and relevant. Integrated sizing guides, styling articles, and moderated discussion boards create a supportive environment where users share advice and vote on best solutions. Partnerships with sustainable brands and ethical influencers reinforce the platform’s commitment to conscious consumerism and community engagement.(McNeill & Venter, 2019; Smith & Kim, 2023)
 
 #### Introduction
 
@@ -34,9 +34,7 @@ Style Finder demonstrates how a focused personalization workflow, combined with 
 ---
 <img width="322" alt="Screen Shot 2025-05-12 at 2 08 57 PM" src="https://github.com/user-attachments/assets/2f61ca99-bf14-4401-a390-8c7b8da40f35" />
 <img width="322" alt="Screen Shot 2025-05-12 at 2 09 05 PM" src="https://github.com/user-attachments/assets/d748681a-80cf-43be-9840-f6839852897f" />
-<img width="320" alt="Screen Shot 2025-05-12 at 2 08 48 PM" src="https://github.com/user-attachments/assets/4b8bc229-1285-<img width="324" alt="Screen Shot 2025-05-12 at 2 09 12 PM" src="https://github.com/user-attachments/assets/0a43c8f9-95c7-4cef-bc9b-8fbb10daa377" />
-4cf3-8934-d233cdaf0cbc" />
-
+<img width="324" alt="Screen Shot 2025-05-12 at 2 09 12 PM" src="https://github.com/user-attachments/assets/74151e57-f82e-42f8-844d-da5b7c05de9f" />
 
 
 ## References
